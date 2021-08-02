@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![telegram badge](https://img.shields.io/badge/TR-TECH-GUIDE-30302f?style=flat&logo=telegram)](https://t.me/trtechguide)
+<a href="TRTECHGUIDE"><img src="https://trtechguide.files.wordpress.com/2021/07/untitled-design-2.png"></a>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TR-TECH-GUIDE/)
 
