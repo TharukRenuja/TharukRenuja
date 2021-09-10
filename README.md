@@ -86,6 +86,8 @@
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 
 <br/>
+# MOST USED LANGUAGES
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=TR-TECH-GUIDE&theme=dark&show_icons=true)
 
 #
 
@@ -108,10 +110,6 @@
 <br>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=TR-TECH-GUIDE&theme=react-dark&hide_border=true&area=true)
-
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/github-contribution-grid-snake.svg)
-<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
 <br/>
 
 #
@@ -170,7 +168,23 @@
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
+| <a href="https://t.me/TharukRenuja"><img src="https://telegra.ph/file/0173b59da78a5aae475df.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|       **[ŦħȺɍᵾꝁ ɌɇnᵾɉȺ](https://t.me/TharukRenuja)**                                                                                |
+| <a href="https://t.me/TharukRenuja"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px">              <a href="https://www.youtube.com/channel/UCoqH50psZdxpiSMIFZi6OFQ?view_as=subscriber"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>              <a href="https://twitter.com/TRenuja"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="32px" height="32px">                                                                   
+    
+                                                              
+### Support Group:
+<a href="https://t.me/trtechguide"><img src="https://img.shields.io/badge/TRTECHGUIDE%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
+### Telegram Bots Channel:
+<a href="https://t.me/SLBotsofficial"><img src="https://img.shields.io/badge/SLBotsofficial%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
+<p align="left">
+ 
+<a href="https://t.me/TharukRenuja" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCoqH50psZdxpiSMIFZi6OFQ?view_as=subscriber" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/TRenuja" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
+</p>
 #
 
 ![footer](https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/PNG/footer.png)
