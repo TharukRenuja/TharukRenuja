@@ -150,13 +150,6 @@
   <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
 </p>
 
-<p align="center">
-  <a href='https://github.com/TR-TECH-GUIDE/'>
-    <img width="75%" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/metrics.svg"/>
-    <img src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/master/metrics.detailed.svg" width="75%"/>
-  </a>
-</p>
-
 <h1>
   Connect With Me
   <a target="_blank">
