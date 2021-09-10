@@ -164,7 +164,10 @@
   <br>
   <a href="https://twitter.com/TRenuja" target="_blank">
     <code><img height="60" width="60" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/SVG/twitter.svg"/></code>
-  </a>    
+  </a>
+  <a href="https://t.me/TharukRenuja" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCoqH50psZdxpiSMIFZi6OFQ?view_as=subscriber" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/TRenuja" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 <br/>
 
@@ -196,10 +199,6 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://t.me/SLBotsofficial"><img src="https://img.shields.io/badge/SLBotsofficial%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 <p align="left">
  
-<a href="https://t.me/TharukRenuja" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCoqH50psZdxpiSMIFZi6OFQ?view_as=subscriber" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/TRenuja" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
 #
 
 ![footer](https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/PNG/footer.png)
