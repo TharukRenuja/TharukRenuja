@@ -1,17 +1,17 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
-    <img src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/master/GIF/Hi.gif" width="40px" />
+    <img src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
 
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/master/GIF/image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/GIF/image.gif">
 </a>
 
 - 😂 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 studying
@@ -22,7 +22,7 @@
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
-- <img src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/master/PNG/house.png" width="20px" height="20px"/>  𝙷𝚘𝚐𝚠𝚊𝚛𝚝𝚜 𝙷𝚘𝚞𝚜𝚎 : **𝚂𝚕𝚢𝚝𝚑𝚎𝚛𝚒𝚗** <img width="20px" height="20px" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/master/PNG/Slytherin_ClearBG.png">
+- <img src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/master/PNG/house.png" width="20px" height="20px"/>  𝙷𝚘𝚐𝚠𝚊𝚛𝚝𝚜 𝙷𝚘𝚞𝚜𝚎 : **𝚂𝚕𝚢𝚝𝚑𝚎𝚛𝚒𝚗** <img width="20px" height="20px" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/PNG/Slytherin_ClearBG.png">
 
 <br/>
 <br/>
@@ -46,15 +46,15 @@
 
 <p align="center">
   <a>
-    <img height="150" width="175" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/master/PNG/left.png">
+    <img height="150" width="175" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TR-TECH-GUIDE&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/master/PNG/right.png">
+    <img height="150" width="175" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/PNG/right.png">
   </a>
 </p>
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/GIF/github.gif"></a>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
@@ -152,7 +152,7 @@
 
 <p align="center">
   <a href='https://github.com/TR-TECH-GUIDE/'>
-    <img width="75%" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/master/metrics.svg"/>
+    <img width="75%" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/metrics.svg"/>
     <img src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/master/metrics.detailed.svg" width="75%"/>
   </a>
 </p>
@@ -160,14 +160,14 @@
 <h1>
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
 
 <p align="center">
   <br>
   <a href="https://twitter.com/TRenuja" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/master/SVG/twitter.svg"/></code>
+    <code><img height="60" width="60" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/SVG/twitter.svg"/></code>
   </a>    
 </p>
 <br/>
@@ -180,4 +180,4 @@
 
 #
 
-![footer](https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/master/PNG/footer.png)
+![footer](https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/PNG/footer.png)
