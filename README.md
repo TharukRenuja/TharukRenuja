@@ -174,6 +174,10 @@
 
 </div>
 
+<a target="_blank">
+  <img align="right" height="330px" width="500px" src="https://trtechguide.files.wordpress.com/2021/07/untitled-design-2.png" >
+</a>
+
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
