@@ -146,13 +146,6 @@
 
 #
 
-<p align="center">
-  <a href="https://github.com/TR-TECH-GUIDE">
-    <img height="50" width="50" src="https://trtechguide.files.wordpress.com/2020/11/photo_2020-11-09_06-54-12.jpg">  
-  </a>
-  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
-</p>
-
 <h1>
   Connect With Me
   <a target="_blank">
