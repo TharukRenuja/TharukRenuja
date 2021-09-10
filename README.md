@@ -86,7 +86,9 @@
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 
 <br/>
-# MOST USED LANGUAGES
+
+**MOST USED LANGUAGES**
+
 <br>
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=TR-TECH-GUIDE&theme=dark&show_icons=true)
 <br/>
