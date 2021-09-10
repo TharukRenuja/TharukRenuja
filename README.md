@@ -14,6 +14,8 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/GIF/image.gif">
 </a>
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TR-TECH-GUIDE/)
+
 - 😂 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 studying
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**
@@ -22,6 +24,7 @@
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
+- 📫 How to reach me: Telegram - [@trtechguide](https://t.me/trtechguide)
 - <img src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/master/PNG/house.png" width="20px" height="20px"/>  𝙷𝚘𝚐𝚠𝚊𝚛𝚝𝚜 𝙷𝚘𝚞𝚜𝚎 : **𝚂𝚕𝚢𝚝𝚑𝚎𝚛𝚒𝚗** <img width="20px" height="20px" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/PNG/Slytherin_ClearBG.png">
 
 <br/>
@@ -119,24 +122,21 @@
 </summary>
 
 <a target="_blank">
-  <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@TR-TECH-GUIDE/d757c83d-c3a9-424e-86f1-ce88190c9840.svg" >
+  <img align="right" height="330px" width="500px" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" >
 </a>
 
 <br>
 <br>
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
-
 **🐱 My Github Data** 
 
 > 🏆 56 Contributions in the Year 2021
  > 
-> 📦 3.2 MB Used in Github's Storage 
+> 📦 20.8 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 51 Public Repositories 
+> 📜 53 Public Repositories 
  > 
 > 🔑 5 Private Repositories  
  > 
