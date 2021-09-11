@@ -97,8 +97,10 @@
 
 <br>
 
+<p align="center">
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=TR-TECH-GUIDE&theme=dark&show_icons=true)
 <br/>
+</p> 
 
 #
 
