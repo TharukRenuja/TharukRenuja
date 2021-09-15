@@ -54,7 +54,7 @@
 
 <p align="center">
   <a>
-    <img height="150" width="175" src="https://github.com/TharukRenuja/TharukRenujaE/blob/main/PNG/left.png">
+    <img height="150" width="175" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TharukRenuja&theme=dark&hide_border=true"/>
     <img height="150" width="175" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/right.png">
   </a>
@@ -118,70 +118,4 @@
 #
 
 <a target="_blank">
-  <img align="right" height="330px" width="500px" src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" >
-</a>
-
-<br>
-<br>
-
-**🐱 My Github Data** 
-
-> 🏆 56 Contributions in the Year 2021
- > 
-> 📦 20.8 MB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 86 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-
-#
-
-<h1>
-  Connect With Me
-  <a target="_blank">
-    <img src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
-  </a>
-</h1>
-
-<p align="center">
-  <br>
-  <a href="https://t.me/TharukRenuja" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png"  height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCoqH50psZdxpiSMIFZi6OFQ?view_as=subscriber" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/TRenuja" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
-<br/>
-
-<div align="center">
-
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-</div>
-
-<a target="_blank">
-  <img align="right" height="330px" width="500px" src="https://trtechguide.files.wordpress.com/2021/07/untitled-design-2.png" >
-</a>
-
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-| <a href="https://t.me/TharukRenuja"><img src="https://telegra.ph/file/0173b59da78a5aae475df.jpg" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[ŦħȺɍᵾꝁ ɌɇnᵾɉȺ](https://t.me/TharukRenuja)**                                                                                |
-| <a href="https://t.me/TharukRenuja"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px">              
-  <a href="https://www.youtube.com/channel/UCoqH50psZdxpiSMIFZi6OFQ?view_as=subscriber"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-256.png" width="32px" height="32px"></a>              
-  <a href="https://twitter.com/TRenuja"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-256.png" width="32px" height="32px">                                                                   
-    
-                                                              
-### Support Group:
-<a href="https://t.me/trtechguide"><img src="https://img.shields.io/badge/TRTECHGUIDE%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
-
-### Telegram Bots Channel:
-<a href="https://t.me/SLBotsofficial"><img src="https://img.shields.io/badge/SLBotsofficial%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
-<p align="left">
- 
-#
-
-![footer](https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/footer.png)
+  <img align="right" height="330px" width="500px" 
