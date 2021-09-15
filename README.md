@@ -54,9 +54,9 @@
 
 <p align="center">
   <a>
-    <img height="150" width="175" src="https://github.com/TR-TECH-GUIDE/TharukRenujaE/blob/main/PNG/left.png">
+    <img height="150" width="175" src="https://github.com/TharukRenuja/TharukRenujaE/blob/main/PNG/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TharukRenuja&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/TR-TECH-GUIDE/TharukRenuja/blob/main/PNG/right.png">
+    <img height="150" width="175" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/right.png">
   </a>
 </p>
 
