@@ -1,10 +1,10 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
-    <img src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/GIF/Hi.gif" width="40px" />
+    <img src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
 
@@ -14,10 +14,10 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/GIF/image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/TR-TECH-GUIDE/TharukRenuja/blob/main/GIF/image.gif">
 </a>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TR-TECH-GUIDE/)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TharukRenuja/)
 
 - 😂 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 studying
 - 👀 I’m interested in BOT DEVELOPING
@@ -27,11 +27,11 @@
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝**
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/issues/1) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/TharukRenuja/TharukRenuja/issues) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜***
-- 📫 How to reach me: Telegram - [@trtechguide](https://t.me/trtechguide)
-- <img src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/PNG/house.png" width="20px" height="20px"/>  𝙷𝚘𝚐𝚠𝚊𝚛𝚝𝚜 𝙷𝚘𝚞𝚜𝚎 : **𝚂𝚕𝚢𝚝𝚑𝚎𝚛𝚒𝚗** <img width="20px" height="20px" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/PNG/Slytherin_ClearBG.png">
+- 📫 How to reach me: Telegram - [@TharukRenuja](https://t.me/TharukRenuja)
+- <img src="https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/house.png" width="20px" height="20px"/>  𝙷𝚘𝚐𝚠𝚊𝚛𝚝𝚜 𝙷𝚘𝚞𝚜𝚎 : **𝚂𝚕𝚢𝚝𝚑𝚎𝚛𝚒𝚗** <img width="20px" height="20px" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/Slytherin_ClearBG.png">
 
 <br/>
 <br/>
@@ -51,19 +51,19 @@
 
 #
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=TR-TECH-GUIDE&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/TR-TECH-GUIDE)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=TharukRenuja&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/TharukRenuja)
 
 <p align="center">
   <a>
-    <img height="150" width="175" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/PNG/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TR-TECH-GUIDE&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/PNG/right.png">
+    <img height="150" width="175" src="https://github.com/TR-TECH-GUIDE/TharukRenujaE/blob/main/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TharukRenuja&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/TR-TECH-GUIDE/TharukRenuja/blob/main/PNG/right.png">
   </a>
 </p>
 
 #
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/github.gif"></a>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
@@ -103,17 +103,17 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/TR-TECH-GUIDE">
+  <a href="https://github.com/TharukRenuja">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=TR-TECH-GUIDE&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/TR-TECH-GUIDE">
+  <a href="https://github.com/TharukRenuja">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TR-TECH-GUIDE&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 </details>
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=TR-TECH-GUIDE&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=TharukRenuja&theme=react-dark&hide_border=true&area=true)
 <br/>
 
 #
@@ -143,7 +143,7 @@
 <h1>
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
 
@@ -185,4 +185,4 @@ You can use the website to generate badges: https://shields.io/
  
 #
 
-![footer](https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/PNG/footer.png)
+![footer](https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/footer.png)
