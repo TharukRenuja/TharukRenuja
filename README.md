@@ -14,7 +14,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/TR-TECH-GUIDE/TharukRenuja/blob/main/GIF/image.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/image.gif">
 </a>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TharukRenuja/)
