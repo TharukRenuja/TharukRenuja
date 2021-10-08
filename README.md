@@ -17,8 +17,6 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/image.gif">
 </a>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TharukRenuja/)
-
 - 😂 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 studying
 - 👀 I’m interested in BOT DEVELOPING
 - 🌱 I’m currently learning Python Pyrogram & Telethon 
