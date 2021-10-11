@@ -63,7 +63,7 @@
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/github.gif"></a>
 <br/>
 
-**Social Medias & Followers
+**Social Medias & Followers**
 
 [![Twitter](https://img.shields.io/twitter/follow/TRenuja?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/TRenuja)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCoqH50psZdxpiSMIFZi6OFQ?style=for-the-badge&logo=youtube&label=Youtube&color=blue)](https://www.youtube.com/channel/UCoqH50psZdxpiSMIFZi6OFQ)
