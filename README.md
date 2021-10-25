@@ -131,6 +131,5 @@
 <p align="left">
   <img align="right" height="330px" width="500px" src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif">
 </p>
-#
 
 ![footer](https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/PNG/footer.png)
