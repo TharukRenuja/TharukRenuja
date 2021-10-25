@@ -122,3 +122,14 @@
 
 <a target="_blank">
   <img align="right" height="330px" width="500px" 
+
+### Support Group:
+<a href="https://t.me/trtechguide"><img src="https://img.shields.io/badge/TRTECHGUIDE%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+
+### Telegram Bots Channel:
+<a href="https://t.me/SLBotsofficial"><img src="https://img.shields.io/badge/SLBotsofficial%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
+<p align="left">
+ 
+#
+
+![footer](https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/PNG/footer.png)
