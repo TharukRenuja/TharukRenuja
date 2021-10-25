@@ -119,7 +119,7 @@
 <br/>
 
 <a target="me">
-  <img align="right" height="330px" width="500px" src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" >
+  <img align="right" height="250px" width="340px" src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" >
 </a>
 
 ### Support Group:
