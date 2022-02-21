@@ -129,9 +129,9 @@
 <a href="https://t.me/trtechguide"><img src="https://img.shields.io/badge/TRTECHGUIDE%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Telegram Bots Channel:
-<a href="https://t.me/SLBotsofficial"><img src="https://img.shields.io/badge/SLBotsofficial%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
+<a href="https://t.me/SLBotOfficial"><img src="https://img.shields.io/badge/SLBotOfficial%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 
 ### Telegram Movie Updates:
 <a href="https://t.me/nstcentertainment"><img src="https://img.shields.io/badge/Movie%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 
-![footer](https://github.com/TR-TECH-GUIDE/TR-TECH-GUIDE/blob/main/PNG/footer.png)
+![footer](https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/footer.png)
