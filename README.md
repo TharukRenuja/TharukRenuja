@@ -92,8 +92,8 @@
 
 #### Social Media
 
-![Facebook][https://img.shields.io/badge/-Facebook-red?color=279EFF&logo=telegram&logoColor=black](https://www.facebook.com/imtharuk)
-![Telegram][https://img.shields.io/badge/-telegram-red?color=4477CE&logo=telegram&logoColor=black](https://telegram.me/TharukRenuja)
-![Instagram][https://img.shields.io/badge/-Instagram-red?color=C70039&logo=instagram&logoColor=black](https://www.instagram.com/pdtrenuja)
+[![Facebook](https://img.shields.io/badge/-Facebook-red?color=279EFF&logo=telegram&logoColor=black)](https://www.facebook.com/imtharuk)
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=4477CE&logo=telegram&logoColor=black)](https://telegram.me/TharukRenuja)
+[![Instagram](https://img.shields.io/badge/-Instagram-red?color=C70039&logo=instagram&logoColor=black)](https://www.instagram.com/pdtrenuja)
 
 ![footer](https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/footer.png)
