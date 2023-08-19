@@ -53,6 +53,7 @@
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/github.gif"></a>
 <br/>
+<br/>
 
 **Social Medias & Followers**
 
@@ -62,7 +63,7 @@
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
-
+<br/>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
@@ -75,7 +76,6 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
-
 <br/>
 
 #
@@ -96,22 +96,9 @@
   </a>
 </p>
 </details>
-<br>
-
-<!--![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=TharukRenuja&theme=react-dark&hide_border=true&area=true)-->
-<br/>
 
 <a target="me">
   <img align="right" height="250px" width="340px" src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" >
 </a>
-
-### Support Group:
-<a href="https://t.me/trtechguide"><img src="https://img.shields.io/badge/TRTECHGUIDE%20Support-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
-
-### Telegram Bots Channel:
-<a href="https://t.me/SLBotOfficial"><img src="https://img.shields.io/badge/SLBotOfficial%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
-
-### Telegram Movie Updates:
-<a href="https://t.me/nstcentertainment"><img src="https://img.shields.io/badge/Movie%20Updates-Join%20Telegram%20Channel-blue.svg?logo=telegram"></a>
 
 ![footer](https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/footer.png)
