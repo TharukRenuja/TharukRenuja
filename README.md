@@ -9,8 +9,7 @@
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hi+I'm+Tharuk+Renuja)](https://git.io/typing-svg) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bold&color=000000&size=35&width=1050&height=100&lines=%E2%9E%AA+I'm+Bot+Developer;+%E2%9E%AA+I%E2%80%99m+Currently+Learning+Python+Pyrogram+%26+Telethon;+%E2%9E%AA+Don't+Forget+to+Follow+My+Github+Profile;%E2%9E%AA+Good+Bye)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DBF7F4&width=435&lines=I'm+a+Web+Designer+%26+Developer;I'm+Currently+Learning+Python%2C+JS%2C+C%23;Don't+Forget+to+Follow+Me)](https://git.io/typing-svg)
 <br/>
 <br/>
 <a target="_blank">
@@ -49,34 +48,26 @@
   </a>
 </p>
 
-#
+### Tools & Stuff that I'm Currently Using
 
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/github.gif"></a>
-<br/>
-<br/>
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂**
 
-**Social Medias & Followers**
-
-[![Twitter](https://img.shields.io/twitter/follow/TRenuja?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/TRenuja)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCoqH50psZdxpiSMIFZi6OFQ?style=for-the-badge&logo=youtube&label=Youtube&color=blue)](https://www.youtube.com/channel/UCoqH50psZdxpiSMIFZi6OFQ)
-[![Telegram](https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram)](https://telegram.me/TharukRenuja)
-
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-<br/>
-<br/>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
+
 <br/>
+**Operating Systems**
+<code><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
 
 #
 
@@ -97,8 +88,10 @@
 </p>
 </details>
 
-<a target="me">
-  <img align="right" height="250px" width="340px" src="https://github.com/rixon-cochi/rixon-cochi/raw/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif" >
-</a>
+#### Social Media
+
+![Facebook][https://img.shields.io/badge/-Facebook-red?color=279EFF&logo=telegram&logoColor=black](https://www.facebook.com/imtharuk)
+![Telegram][https://img.shields.io/badge/-telegram-red?color=4477CE&logo=telegram&logoColor=black](https://telegram.me/TharukRenuja)
+![Instagram][https://img.shields.io/badge/-Instagram-red?color=C70039&logo=instagram&logoColor=black](https://www.instagram.com/pdtrenuja)
 
 ![footer](https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/footer.png)
