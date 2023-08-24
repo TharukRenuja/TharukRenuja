@@ -50,6 +50,8 @@
 
 ### Tools & Stuff that I'm Currently Using
 
+<a target="_blank"><img align="right" height="250" width="250" alt="𝙶𝙸𝙵" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/github.gif"></a>
+
 #### 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -90,10 +92,45 @@
 </p>
 </details>
 
-#### Social Media
+**🐱 My Github Data** 
 
-[![Facebook](https://img.shields.io/badge/-Facebook-red?color=279EFF&logo=telegram&logoColor=black)](https://www.facebook.com/imtharuk)
-[![Telegram](https://img.shields.io/badge/-telegram-red?color=4477CE&logo=telegram&logoColor=black)](https://telegram.me/TharukRenuja)
-[![Instagram](https://img.shields.io/badge/-Instagram-red?color=C70039&logo=instagram&logoColor=black)](https://www.instagram.com/pdtrenuja)
+> 🏆 118 Contributions in the Year 2022
+ > 
+> 🌟 Earned 286 Stars
+ >
+> 📜 169 Public Repositories 
+ > 
+> 🔑 130 Private Repositories  
+ > 
 
+#
+
+<h1>
+  Connect With Me
+  <a target="_blank">
+    <img src="https://github.com/TharukRenuja/TharukRenuja/tree/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+  </a>
+</h1>
+
+<p align="center">
+  <br>
+  <a href="https://www.facebook.com/imtharuk" target="blank">
+    <img align="center" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/Facebook.png"  height="40" width="40" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/pdtrenuja" target="blank">
+    <img align="center" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/Instagram.png" height="40" width="40" />
+  </a> &nbsp;&nbsp;
+  <a href="https://telegram.me/TharukRenuja" target="blank">
+    <img align="center" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/Telegram.png" height="40" width="40" />    
+  </a> &nbsp;&nbsp;
+  <a href="https://threads.net/@pdtharukrenuja" target="blank">
+    <img align="center" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/Threads.png" height="40" width="40" />
+  </a> &nbsp;&nbsp;
+  <a href="https://twitter.com/TRenuja" target="blank">
+    <img align="center" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/Twitter.png" height="40" width="40" />
+  </a> &nbsp;&nbsp;
+</p>
+<br/>
+
+#### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 ![footer](https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/footer.png)
