@@ -108,7 +108,7 @@
 <h1>
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/TharukRenuja/TharukRenuja/tree/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
 
@@ -132,5 +132,7 @@
 </p>
 <br/>
 
-#### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+<h4 align="center">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!</h4>
+<br/>
+
 ![footer](https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/footer.png)
