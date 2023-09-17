@@ -9,7 +9,7 @@
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hi+I'm+Tharuk+Renuja)](https://git.io/typing-svg) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DBF7F4&width=435&lines=I'm+a+Web+Designer+%26+Developer;I'm+Currently+Learning+Python%2C+JS%2C#+C%23;Don't+Forget+to+Follow+Me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DBF7F4&width=435&lines=I'm+a+Web+Designer+%26+Developer;I'm+Currently+Learning+Python%2C+JS%2C+Dart;Don't+Forget+to+Follow+Me)](https://git.io/typing-svg)
 <br/>
 <br/>
 <a target="_blank">
@@ -54,8 +54,9 @@
 </p>
 </details>
 
-
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=TharukRenuja&column=10&no-bg=true&no-frame=true)](https://github.com/TharukRenuja)
+<center>
+  [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=TharukRenuja&column=9&no-bg=true&no-frame=true)](https://github.com/TharukRenuja)
+</center>
 
 #
 
