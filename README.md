@@ -54,9 +54,9 @@
 </p>
 </details>
 
-<center>
+<p align="center">
   [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=TharukRenuja&column=9&no-bg=true&no-frame=true)](https://github.com/TharukRenuja)
-</center>
+</p>
 
 #
 
