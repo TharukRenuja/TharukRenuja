@@ -8,8 +8,8 @@
   </a>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hi+I'm+Tharuk+Renuja)](https://git.io/typing-svg) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DBF7F4&width=435&lines=I'm+a+Web+Designer+%26+Developer;I'm+Currently+Learning+Python%2C+JS%2C+Dart;Don't+Forget+to+Follow+Me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hi+I'm+Tharuk+Renuja)](https://github.com/TharukRenuja) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DBF7F4&random=false&width=435&lines=I'm+Noob+Web+Dev+%26+App+Dev;I'm+Currently+Learning...;Python%2C+Next.js%2C+Flutter+%26+C%23;Don't+Forget+to+Follow+Me)](https://github.com/TharukRenuja)
 <br/>
 <br/>
 <a target="_blank">
@@ -18,7 +18,7 @@
 
 - 😂 Yes, 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 studying
 - 👀 I’m interested in Web Designing & Development
-- 🌱 I’m currently learning Python, JS, C#
+- 🌱 I’m currently learning Python, Next.js, Flutter & C#
 - 💞 I’m looking to collaborate on ...
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **𝚆𝚎𝚋 Designing & 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, Mobile App Development**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/TharukRenuja/TharukRenuja/issues) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
@@ -46,15 +46,15 @@
 
 <p align="center">
   <a href="https://github.com/TharukRenuja">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TharukRenuja&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tharukrenuja&show_icons=true&theme=transparent&hide_border=true"/>
   </a>
   <a href="https://github.com/TharukRenuja">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharukRenuja&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharukrenuja&layout=compact&langs_count=10&theme=transparent&hide_border=true" />
   </a>
 </p>
 </details>
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=TharukRenuja&column=9&margin-w=10&margin-h=10)](https://github.com/TharukRenuja)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=tharukrenuja&no-frame=true&margin-w=10&margin-h=10&column=10&no-bg=true)](https://github.com/TharukRenuja)
 
 #
 
