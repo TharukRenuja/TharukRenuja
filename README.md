@@ -1,10 +1,10 @@
 <h1 align="center">
   <a target="_blank">
-    <img src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    <img src="GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <a target="_blank">
-    <img src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/Hi.gif" width="40px" />
+    <img src="GIF/Hi.gif" width="40px" />
   </a>
 </h1>
 
@@ -13,7 +13,7 @@
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/image.gif">
+  <img align="right" style="margin-right:30px;" width="240" alt="GIF" src="GIF/error.gif">
 </a>
 
 - 😂 Yes, 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 studying
@@ -61,26 +61,26 @@
 <h1>
   Connect With Me
   <a target="_blank">
-    <img src="https://github.com/TharukRenuja/TharukRenuja/blob/main/GIF/Handshake.gif" height="25px" style="max-width:100%;">
+    <img src="GIF/Handshake.gif" height="25px" style="max-width:100%;">
   </a>
 </h1>
 
 <p align="center">
   <br>
   <a href="https://www.facebook.com/imtharuk" target="blank">
-    <img align="center" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/Facebook.png"  height="40" width="40" />
+    <img align="center" src="PNG/Facebook.png"  height="40" width="40" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/pdtrenuja" target="blank">
-    <img align="center" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/Instagram.png" height="40" width="40" />
+    <img align="center" src="PNG/Instagram.png" height="40" width="40" />
   </a> &nbsp;&nbsp;
   <a href="https://telegram.me/TharukRenuja" target="blank">
-    <img align="center" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/Telegram.png" height="40" width="40" />    
+    <img align="center" src="PNG/Telegram.png" height="40" width="40" />    
   </a> &nbsp;&nbsp;
   <a href="https://threads.net/@pdtharukrenuja" target="blank">
-    <img align="center" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/Threads.png" height="40" width="40" />
+    <img align="center" src="PNG/Threads.png" height="40" width="40" />
   </a> &nbsp;&nbsp;
   <a href="https://twitter.com/TRenuja" target="blank">
-    <img align="center" src="https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/Twitter.png" height="40" width="40" />
+    <img align="center" src="PNG/Twitter.png" height="40" width="40" />
   </a> &nbsp;&nbsp;
 </p>
 <br/>
@@ -88,4 +88,4 @@
 <h4 align="center">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!</h4>
 <br/>
 
-![footer](https://github.com/TharukRenuja/TharukRenuja/blob/main/PNG/footer.png)
+![footer](PNG/footer.png)
