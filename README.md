@@ -9,7 +9,7 @@
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hi+I'm+Tharuk+Renuja)](https://github.com/TharukRenuja) 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DBF7F4&random=false&width=435&lines=I'm+Noob+Web+Dev+%26+App+Dev;I'm+Currently+Learning...;Python%2C+Next.js%2C+Flutter+%26+C%23;Don't+Forget+to+Follow+Me)](https://github.com/TharukRenuja)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DBF7F4&random=false&width=435&lines=I'm+a+Noob+Web+Dev+%26+UI/UX+Designer;I'm+Still+Learning+and+Exploring...;Hope+ya'll+find+smt+useful+here..!)](https://github.com/TharukRenuja)
 <br/>
 <br/>
 
@@ -21,11 +21,8 @@
 
 #
 
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
+<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+<strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 <br>
 
 <p align="center">
@@ -54,7 +51,7 @@
   <a href="https://www.facebook.com/imtharuk" target="blank">
     <img align="center" src="PNG/Facebook.png"  height="40" width="40" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/pdtrenuja" target="blank">
+  <a href="https://www.instagram.com/tharukrj" target="blank">
     <img align="center" src="PNG/Instagram.png" height="40" width="40" />
   </a> &nbsp;&nbsp;
   <a href="https://telegram.me/TharukRenuja" target="blank">
@@ -63,7 +60,7 @@
   <a href="https://threads.net/@pdtharukrenuja" target="blank">
     <img align="center" src="PNG/Threads.png" height="40" width="40" />
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/TRenuja" target="blank">
+  <a href="https://twitter.com/TharukRenuja" target="blank">
     <img align="center" src="PNG/Twitter.png" height="40" width="40" />
   </a> &nbsp;&nbsp;
 </p>
