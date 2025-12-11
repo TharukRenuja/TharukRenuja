@@ -19,12 +19,11 @@
   <img src="https://img.shields.io/github/stars/TharukRenuja?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
+<!--
 #
-
 <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
 <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 <br>
-
 <p align="center">
   <a href="https://github.com/TharukRenuja">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tharukrenuja&show_icons=true&theme=transparent&hide_border=true"/>
@@ -34,9 +33,8 @@
   </a>
 </p>
 </details>
-
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=tharukrenuja&no-frame=true&margin-w=10&margin-h=10&column=10&no-bg=true)](https://github.com/TharukRenuja)
-
+-->
 #
 
 <h1>
