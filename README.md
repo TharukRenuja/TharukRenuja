@@ -1,5 +1,8 @@
 <h1 align="left">
   Hi, I'm Tharuk Renuja
+  <a target="_blank">
+    <img src="GIF/Hi.gif" height="25px" style="max-width:100%;">
+  </a>
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD700&size=25&width=500&height=50&lines=Full+Stack+Developer;UI/UX+Designer;Tech+Enthusiast)](https://github.com/TharukRenuja)
