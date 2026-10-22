@@ -35,10 +35,10 @@ I'm a student and self taught UI/UX Designer, Web & Mobile App Developer. I've a
   </p>
   <p align="center">
     <a href="https://github.com/TharukRenuja">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=TharukRenuja&show_icons=true&theme=github_dark&hide_border=true" height="175" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=TharukRenuja&show_icons=true&theme=github_dark&hide_border=true" height="200" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/TharukRenuja">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TharukRenuja&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="175" alt="Top Languages" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TharukRenuja&layout=compact&theme=github_dark&hide_border=true&langs_count=12" height="200" alt="Top Languages" />
     </a>
   </p>
 </details>
